@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pshiny0&layout=compact)
 <!--
 **pshiny0/pshiny0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
