@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pshiny0)](https://github.com/pshiny0/github-readme-stats)
+
 <!--
 **pshiny0/pshiny0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
